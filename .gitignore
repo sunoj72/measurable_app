@@ -22,5 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-#solutions/infra/grafana/data/
-#solutions/infra/prometheus/data/
+# 작업 디렉토리 갱신 금지
+solutions/infra/grafana/data/
+solutions/infra/prometheus/data/
