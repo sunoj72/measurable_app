@@ -21,8 +21,8 @@ Measurable Application with Springboot Actuator, Prometheus, Grafana
 
 ## 목차
 
-1. 어플리케이션 모니터링: 개요
-  1.1 프로파일링, 트레이싱, 로깅, 메트릭
+1. 개요
+  1.1 어플리케이션 모니터링: 프로파일링, 트레이싱, 로깅, 메트릭
   1.2 Prometheus, Grafana
   1.3 Spring boot actuator
 
@@ -34,4 +34,4 @@ Measurable Application with Springboot Actuator, Prometheus, Grafana
   2.3. Springboot Actuator Sample: petclinic
     - petclinic 
 
-3. Springboot 
+3. 커스텀 메트릭
